@@ -22,7 +22,7 @@ PTC is under no obligation to and may never commercially release this software o
 PTC is not responsible for any maintenance for this software.
 
 # Overview
-<type here a short description of the block>
+Here a short description of the block
 
 # License
 PTC Proprietary Freeware License

@@ -1,6 +1,6 @@
-# BBABlock
+# Sample Block
 
-Disclaimer
+# Disclaimer
 By downloading this software, the user acknowledges that it is unsupported, not reviewed for security purposes, and that the user assumes all risk for running it.
 
 Users accept all risk whatsoever regarding the security of the code they download.
@@ -21,10 +21,10 @@ PTC is under no obligation to and may never commercially release this software o
 
 PTC is not responsible for any maintenance for this software.
 
-Overview
+# Overview
 <type here a short description of the block>
 
-License
+# License
 PTC Proprietary Freeware License
 I accept the PTC End User License Agreement (https://www.ptc.com/en/documents/legal-agreements/on-premise-license-agreements) and agree that any software downloaded/utilized will be in compliance with that Agreement. However, despite anything to the contrary in the License Agreement, I agree as follows:
 

@@ -5,14 +5,18 @@ This is a sample of the README.md content to be used by code authors that will s
 # Disclaimer
 By downloading this software, the user acknowledges that it is unsupported, not reviewed for security purposes, and that the user assumes all risk for running it.
 Users accept all risk whatsoever regarding the security of the code they download.
+
 This Software is not an official PTC product and is not officially supported by PTC.
 PTC will not accept technical support cases logged related to this Software.
 This source code is offered freely and AS IS without any warranty. 
+
 The author of this code cannot be held accountable for the well-functioning of it.  
 The author shared the code that worked at a specific moment in time using specific versions of PTC products at that time, without the intention to make the code compliant with past or future versions of those PTC products.  
+
 The author has not committed to maintain this code and he may not be bound to maintain or fix it.
 This Software has not been released for general distribution or sale.
 This Software may not be compatible with any existing or future commercial release versions of PTC software.
+
 PTC is under no obligation to and may never commercially release this software or other software containing functionality contained in this Software.
 PTC is not responsible for any maintenance for this software.
 

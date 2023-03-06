@@ -1,27 +1,40 @@
-# SampleBuildingBlockApp
+ 
+This is a sample of the README.md content to be used by code authors that will share developed use cases.
 
-This is a sample of the README.md content to be used by code authors that will share use cases developed with building blocks. 
+Each use case repository will have a README.md that describes the use cases generally in overview section.
+
+Each new release in the use case repository will have a README.md file to specify just what the release brings new or changed in the overview section. 
+
+    Example: For a new use case ABC the author will create a README.md in the /ABC repository and a README.md for the v1.0 in the /releases/tag/v1.0
+
+    For a new release 2.0 of ABC use case the author will create a README.md only for the release in /releases/tag/v2.0
 
 # Disclaimer
 By downloading this software, the user acknowledges that it is unsupported, not reviewed for security purposes, and that the user assumes all risk for running it.
+
 Users accept all risk whatsoever regarding the security of the code they download.
 
 This Software is not an official PTC product and is not officially supported by PTC.
+
+PTC is not responsible for any maintenance for this software.
+
 PTC will not accept technical support cases logged related to this Software.
+
 This source code is offered freely and AS IS without any warranty. 
 
 The author of this code cannot be held accountable for the well-functioning of it.  
-The author shared the code that worked at a specific moment in time using specific versions of PTC products at that time, without the intention to make the code compliant with past or future versions of those PTC products.  
+
+The author shared the code that worked at a specific moment in time using specific versions of PTC products at that time, without the intention to make the code compliant with past, current or future versions of those PTC products.  
 
 The author has not committed to maintain this code and he may not be bound to maintain or fix it.
-This Software has not been released for general distribution or sale.
-This Software may not be compatible with any existing or future commercial release versions of PTC software.
 
-PTC is under no obligation to and may never commercially release this software or other software containing functionality contained in this Software.
-PTC is not responsible for any maintenance for this software.
+# USE CASE Overview / USE CASE RELEASE X.Y Overview
+Keep as title one of the above. 
 
-# Overview
-Provide here a description of 1-2 paragraphs of the use case/feature/product gap this code addresses.     
+Provide here a description of 1-2 paragraphs of the use case this code addresses.    
+
+# Authors
+Provide the list of people(name,company, email) that contributed to this use case build.
 
 # License
 The MIT License

@@ -33,7 +33,7 @@ Keep as title one of the above.
 
 Provide here a description of 1-2 paragraphs of the use case this code addresses.    
 Provode a list of keywords representativs for the block
-Keywords: abc123
+
 
 # Authors
 Provide the list of people(name,company, email) that contributed to this use case build.

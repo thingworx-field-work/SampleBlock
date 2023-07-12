@@ -8,9 +8,7 @@ Sections of the README.md :
 
 
 # Overview 
-Keep as title one of the above. 
-
-Provide here a description of 1-2 paragraphs of the use case this code addresses.    
+ Provide here a description of 1-2 paragraphs of the use case this code addresses.    
 Provode a list of keywords representativs for the block
 
 # Authors

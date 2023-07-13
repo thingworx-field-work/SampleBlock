@@ -11,8 +11,8 @@ Sections of the README.md :
  Provide here a description of 1-2 paragraphs of the use case this code addresses.    
 Provode a list of keywords representativs for the block
 
-# Authors
-Provide the list of people(name,company, email) that contributed to this use case build.
+# Keyowrds
+optional section to list key terms that describe the project. Example: Thingworx, DPM, Oracle database, Wonderware  etc.
 
 # Disclaimer
 By downloading this software, the user acknowledges that it is unsupported, not reviewed for security purposes, and that the user assumes all risk for running it.
